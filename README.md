@@ -27,7 +27,7 @@
 Linkedin: https://ca.linkedin.com/in/angemmanuel-kouakou
 </li>
   <li>
-Instagram: [@ironbornangemmanuel](https://www.instagram.com/ironbornangemmanuel/)
+Instagram: https://www.instagram.com/ironbornangemmanuel/
 </li>
   <li>
 Discord: orosei
