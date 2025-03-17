@@ -25,7 +25,7 @@
   <ul>
 <li>
 Linkedin: https://ca.linkedin.com/in/angemmanuel-kouakou
-  </ul>li>
+</li>
   <li>
 Instagram: @ironbornangemmanuel
 </li>
