@@ -22,6 +22,9 @@
 - ⚡ Fun fact **I can do the front splits**
 
 <h3 align="left">Connect with me:</h3>
+Linkedin: https://ca.linkedin.com/in/angemmanuel-kouakou
+Instagram: @ironbornangemmanuel
+Discord: orosei
 <p align="left">
 </p>
 
