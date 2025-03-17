@@ -25,14 +25,14 @@
   <ul>
 <li>
 Linkedin: https://ca.linkedin.com/in/angemmanuel-kouakou
-<\li>
+  </ul>li>
   <li>
 Instagram: @ironbornangemmanuel
-<\li>
+</li>
   <li>
 Discord: orosei
-<\li>
- <\ul>
+</li>
+ </ul>
 
 
 <p align="left">
