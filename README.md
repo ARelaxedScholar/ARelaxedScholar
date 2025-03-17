@@ -22,12 +22,19 @@
 - ⚡ Fun fact **I can do the front splits**
 
 <h3 align="left">Connect with me:</h3>
+  <ul>
 <li>
-  <ul>Linkedin: https://ca.linkedin.com/in/angemmanuel-kouakou <\ul>
+Linkedin: https://ca.linkedin.com/in/angemmanuel-kouakou
 <\li>
-
+  <li>
 Instagram: @ironbornangemmanuel
+<\li>
+  <li>
 Discord: orosei
+<\li>
+ <\ul>
+
+
 <p align="left">
 </p>
 
